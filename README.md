@@ -8,7 +8,7 @@ enabling stakeholders to monitor and analyze credit card operations effectively.
 
 # Project Insights- Week 53 (31st Dec)
  WoW change:
- Revenue increased by28.8%,
+ Revenue increased by 28.8%,
  Total Transaction Amt & Count increased by 2.2%& 1.8%,
  
  Overview YTD:
