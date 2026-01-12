@@ -5,7 +5,7 @@ This project focuses on analyzing credit card transaction and customer data to u
 
 The objective is to provide stakeholders with actionable insights to optimize card performance, improve customer activation, and drive revenue growth.
 
-### 🎯 Business Objective
+### 🎯 Business Objectives
 
 Identify key revenue drivers across card segments
 
@@ -82,7 +82,7 @@ Built relationships between tables
 
 Created calculated measures using DAX
 
-Designed a star schema for performance
+Designed a star schema model to optimize query performance and dashboard responsiveness
 
 Dashboard Development
 
