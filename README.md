@@ -127,8 +127,6 @@ Customer Insights: Activation patterns and segment performance
 
 Interactive Filters: Card type, time period, customer segment
 
-(Add screenshots of your dashboard here for maximum impact)
-
 ### 🚀 How to Run / Explore the Project
 
 Download and install Power BI Desktop
