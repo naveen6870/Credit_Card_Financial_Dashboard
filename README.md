@@ -1,11 +1,11 @@
-Credit Card Financial Analytics Dashboard
-# 📌 Project Overview
+# Credit Card Financial Analytics Dashboard
+### 📌 Project Overview
 
 This project focuses on analyzing credit card transaction and customer data to uncover revenue drivers, activation patterns, and portfolio performance trends. An interactive Power BI dashboard was built using SQL-driven data to support data-driven decision-making and simulate business growth strategies in a financial services context.
 
 The objective is to provide stakeholders with actionable insights to optimize card performance, improve customer activation, and drive revenue growth.
 
-# 🎯 Business Objective
+### 🎯 Business Objective
 
 Identify key revenue drivers across card segments
 
@@ -15,7 +15,7 @@ Evaluate portfolio performance to support strategic business decisions
 
 Enable leadership to take data-backed actions for business growth
 
-# 🗂️ Data Description
+### 🗂️ Data Description
 
 The project uses two primary datasets:
 
@@ -45,7 +45,7 @@ Demographics (Age Group, Income Group, etc.)
 
 These datasets were joined and aggregated using SQL to create analytical views for dashboarding.
 
-🛠️ Tools & Technologies
+### 🛠️ Tools & Technologies
 
 SQL – Data extraction, joins, aggregations, KPI calculations
 
@@ -55,7 +55,7 @@ Power Query – Data cleaning and transformation
 
 Excel – Initial data exploration and validation
 
-# 🔄 Workflow / Methodology
+### 🔄 Workflow / Methodology
 
 Data Collection & Understanding
 Reviewed transaction and customer datasets to understand structure and business context.
@@ -95,7 +95,7 @@ Focused on executive-level readability
 Insight Generation & Business Interpretation
 Interpreted trends and converted them into actionable business insights.
 
-# 📊 Key Business Insights
+### 📊 Key Business Insights
 
 Blue & Silver cards contribute ~93% of total transactions, indicating strong performance in mass market segments.
 
@@ -113,7 +113,7 @@ Improve customer onboarding strategies
 
 Enhance portfolio profitability
 
-# 📈 Dashboard Highlights
+### 📈 Dashboard Highlights
 
 The Power BI dashboard provides:
 
@@ -129,7 +129,7 @@ Interactive Filters: Card type, time period, customer segment
 
 (Add screenshots of your dashboard here for maximum impact)
 
-# 🚀 How to Run / Explore the Project
+### 🚀 How to Run / Explore the Project
 
 Download and install Power BI Desktop
 
@@ -142,7 +142,7 @@ Ensure the dataset files are in the same directory or update data source paths
 
 Refresh the data and explore the interactive dashboard
 
-# 📁 Repository Structure
+### 📁 Repository Structure
 Credit_Card_Financial_Dashboard/
 │
 ├── Credit_Card_Financial Dashboard.pbix
@@ -153,7 +153,7 @@ Credit_Card_Financial_Dashboard/
 │   └── customer.csv
 └── README.md
 
-# 💡 Business Value
+### 💡 Business Value
 
 This project demonstrates the ability to:
 
@@ -165,7 +165,7 @@ Translate raw data into actionable business insights
 
 Build executive-ready dashboards for stakeholder consumption
 
-# 👤 Author
+### 👤 Author
 
 Naiko Naveen
 Data Analyst | SQL | Python | Power BI
